@@ -1,1 +1,10 @@
+Conceptos
 
+Repositorio: es el espacio donde se almacenan y organizan los archivos y versiones de un proyecto, ya sea fisico, magnetico o un archivo de ejecución
+web como lo es GIT. que permite guardar y compartir los trabajos y proyectos realizados.
+
+Commit: es un comando de accion para guardar los cambios que se realizan en los proyectos de GIT. sirve como un punto de guardado de los trabajos o
+las actualizaciones que se realicen.
+
+Push: es el comando que envia los cambios guardados desde el computador a GITHUB, aportando a la publicacion y actualizacion de los proyectos que se
+realizan de manera directa.
