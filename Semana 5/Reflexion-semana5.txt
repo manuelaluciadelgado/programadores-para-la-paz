@@ -1,0 +1,13 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan 
+información, reportes o alertas de manera organizada?
+
+Las APIs ayudarian mucho a las comunidades ya que permitiria que
+cada una de ellas genere su propia aplicación a su gusto y conforme
+a sus necesidades colectivas, no solo teniendo algo propio, sino 
+tambien crean una plataforma autentica para el almacenamiento de 
+informacion ordenadamente, donde cada interfaz sea autentica y 
+propia, que les permita conectar con las entidades que se necesiten
+de primera mano, tambien seria un espacio autonomo para la comunicación
+directa de comuneros y comuneras, para hablar, informar, repotar
+y alertar todo lo que ocurra en la comunidad de manera individual 
+y colectiva. 

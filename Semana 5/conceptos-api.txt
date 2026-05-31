@@ -1,0 +1,8 @@
+La ruta Post permite que haya comunicación entre el servidor y quien
+lo usa, cuando se ejecuta de la manera adecuada y precisa. 
+Esta ruta Post en una aplicación comunitaria serviria demasiado para
+tener una buena comunicación e informe de todo lo que ocurra 
+en la comunidad, desde los bueno hasta lo malo. permitiria que la
+información no se pierda sin receptor sino que pueda tener un buen 
+intercambio entre quien da el mensaje y quien lo recibe, y al reacción
+efectiva de estos mensajes en comunidad. 
