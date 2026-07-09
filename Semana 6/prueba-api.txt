@@ -1,0 +1,21 @@
+PRUEBA DE RECEPCIÓN DE DATOS DE LA API
+
+Ruta probada:
+POST /registro
+
+Datos enviados:
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Respuesta del servidor:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Resultado:
+La prueba fue exitosa. El servidor recibió correctamente los datos enviados y 
+respondió con un mensaje de confirmación.
