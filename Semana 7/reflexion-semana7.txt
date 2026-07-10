@@ -1,0 +1,12 @@
+Es importante que las comunidades puedan registrar y consultar reportes
+ o incidencias en una plataforma tecnológica porque permite organizar 
+ mejor la información, identificar necesidades y dar seguimiento a las
+  situaciones que afectan a sus integrantes. Una herramienta de este 
+  tipo facilita la comunicación entre la comunidad y las personas 
+  encargadas de atender los problemas, evitando que los reportes se 
+  pierdan o queden solo como comentarios informales.
+
+Desde la comunicación comunitaria, estas herramientas también ayudan a 
+que las voces de las personas sean escuchadas y que la tecnología sea 
+utilizada como un medio para fortalecer la organización, la gestión y 
+la búsqueda de soluciones colectivas.
