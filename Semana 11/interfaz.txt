@@ -1,0 +1,7 @@
+La interfaz tendría un espacio para registrar nuevas iniciativas o 
+causas de interés comunitario mediante un formulario sencillo. También 
+incluiría una vista con las diferentes causas disponibles para facilitar 
+su consulta y seguimiento. Cada una contaría con un botón de apoyo y un 
+contador que refleje la participación de la comunidad. La información 
+debería presentarse de manera clara y accesible, evitando exponer datos 
+personales de las personas participantes

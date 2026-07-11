@@ -1,0 +1,26 @@
+Entidad: Solicitud
+
+Campos principales:
+- id
+- asunto
+- descripcion
+- fecha
+- estado
+
+Propósito:
+Registrar las solicitudes o necesidades presentadas por la comunidad 
+para organizar su gestión y seguimiento.
+
+
+Entidad: Seguimiento
+
+Campos principales:
+- id
+- solicitud_id
+- observacion
+- responsable
+- fecha
+
+Propósito:
+Registrar las acciones realizadas y el avance de cada solicitud para 
+garantizar transparencia y continuidad en el proceso.
