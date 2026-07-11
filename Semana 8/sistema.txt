@@ -1,0 +1,12 @@
+Comando: uname -a
+Linux codespaces-8670d4 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP
+Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+Comando: whoami
+Este comando muestra el nombre del usuario que está utilizando el 
+sistema. En este caso, el usuario es: codespace.
+
+¿Por qué es útil conocer esta información?
+Porque permite identificar el sistema operativo y el usuario con el 
+que se trabaja, facilitando la administración, configuración y 
+seguridad del servidor.
