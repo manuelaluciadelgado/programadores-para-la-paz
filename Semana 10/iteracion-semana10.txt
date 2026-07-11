@@ -1,0 +1,21 @@
+Las dos tareas del backlog que realizaría primero serían:
+
+1. Permitir que la comunidad registre una incidencia o situación que 
+requiera atención.
+2. Enviar una notificación al equipo responsable cuando se genere un 
+nuevo reporte.
+
+Considero que son las más importantes porque permiten iniciar el 
+proceso de participación y seguimiento. Primero es necesario contar 
+con la información que aporta la comunidad y, posteriormente, asegurar 
+que las personas encargadas conozcan el caso para darle atención 
+oportuna.
+
+Para mí, una tarea puede considerarse terminada cuando cumple con los 
+siguientes criterios:
+
+- La funcionalidad responde a la necesidad para la cual fue creada.
+- La información se registra y se visualiza correctamente.
+- Fue revisada y probada para verificar que no presenta errores.
+- La tarea quedó documentada y respaldada en el repositorio mediante 
+Git, con los comandos git commit y git push. 
