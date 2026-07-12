@@ -1,0 +1,11 @@
+Evento que activa la automatización:
+Cuando se actualiza el estado de una solicitud o iniciativa dentro de la 
+plataforma.
+
+Mensaje que se envía:
+"Se ha registrado una actualización en el proceso de la iniciativa. 
+Consulte la plataforma para conocer los cambios."
+
+Información que no debe enviarse por seguridad:
+No deben enviarse contraseñas, datos de contacto personales, documentos 
+de identidad ni información sensible de la comunidad.

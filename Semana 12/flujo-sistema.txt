@@ -1,0 +1,14 @@
+1. Una persona de la comunidad registra una causa o necesidad mediante 
+un formulario sencillo.
+
+2. La información queda almacenada en la base de datos para su consulta 
+y seguimiento.
+
+3. Otras personas pueden visualizar las causas disponibles y conocer 
+sus objetivos principales.
+
+4. La comunidad puede expresar su apoyo a una causa mediante un botón 
+de participación.
+
+5. El sistema registra los apoyos recibidos y genera el documento de 
+la petición para respaldar el proceso de participación ciudadana.

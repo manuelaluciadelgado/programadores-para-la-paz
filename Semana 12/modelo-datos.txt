@@ -1,0 +1,27 @@
+Entidad: Solicitud
+
+Campos:
+- id
+- asunto
+- descripcion
+- fecha
+- estado
+
+Propósito:
+Esta entidad sirve para registrar las solicitudes, propuestas o 
+necesidades presentadas por la comunidad y facilitar su organización 
+y seguimiento.
+
+
+Entidad: Participacion
+
+Campos:
+- id
+- solicitud_id
+- nombre
+- fecha
+
+Propósito:
+Esta entidad permite registrar las personas que respaldan o participan 
+en una solicitud y conocer el nivel de apoyo que recibe dentro de la 
+comunidad.
